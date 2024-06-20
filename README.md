@@ -1,0 +1,2 @@
+I've created a blogging platform, a platform for users, posts and comments on these posts. I created a backend server and database for this platform.
+I made a video in which I explained the codes I wrote in detail. youtube link of this video:https://www.youtube.com/watch?v=qfFMO9g4YMs&t=8s
